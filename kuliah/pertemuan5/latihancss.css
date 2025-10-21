@@ -1,0 +1,20 @@
+ 
+ h1{ color:blue;
+            font-size: 50px;
+        
+        }
+
+        h2{ color:rgb(255, 162, 0);
+            font-size: 50px;
+             font-family: "BBH Sans Bartle", sans-serif;
+             text-decoration: line-through;
+        
+        }
+
+body{
+    height: 100;
+    background-repeat:no-repeat;
+    background-image: url();
+    background-position: bottom right;
+    background-size: auto;
+}
