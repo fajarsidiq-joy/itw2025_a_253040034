@@ -1,0 +1,90 @@
+body {
+
+    font: 16px/28px arial, sans-serif;
+    background-color: rgb(55, 55, 147);
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+.container {
+    width: 900px;
+    margin: auto;
+    background-color: rgb(45, 233, 236);
+}
+
+.header {
+    padding: 20px;
+}
+
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.header ul li{
+
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+}
+
+.header a:hover {
+    background-color: blue;
+    color: white;
+}
+
+.hero img {
+    height: 506px;
+    border-top: 5px solid grey;
+    border-bottom: 5px solid grey;
+ 
+}
+
+.content {
+    padding: 20px; 
+
+}
+
+.content h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+.content{
+    font-size: 11px;
+    margin-top: -5px;
+}
+
+
+.content .penulis a {
+    color: blue;
+    text-decoration: none;
+    margin-top: -5px;
+}
+
+.content p {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.footer {
+    background-color: grey;
+    padding: 10px;
+}
+
+.footer .copy {
+    color: rgb(7, 8, 8);
+    text-align: center;
+    font-size: 12px;
+}
